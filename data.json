@@ -1,0 +1,80 @@
+{
+    "positions": [
+        {
+            "title": "Software Engineer & Scrum Leader",
+            "business": "Experian", 
+            "location": "Louisville, KY",
+            "start": "12/2019",
+            "end": "current",
+            "details": [
+                "Developing Angular application, consuming Java microservices. Application is centered around fraud identification and mitigation.",
+                "Lead Scrum of Scrums for 3 scrum teams overseeing backlog and tech debt prioritization for 25 member dev team. ",
+                "Scrum Leader for 8 person scrum team, responsible for daily stand up, JIRA sprint backlog, bug tracking and triage.",
+                "Dev lead during weekly product deep dive in order to break down epics in preparation for grooming.", 
+                "Application is implemented utilizing Angular 9/TypeScript, RxJS, NgRX, and Angular components built by our team converted from Experian Design System of web components.",
+                "User Story development also requires all devs to develop QA Automation via Selenium & Java.",
+                "Dev ops troubleshooting of pipelines running through Bitbucket, Jenkins, & Openshift.  Green builds require SonarQube, Veracode, and QA Automation project passing in order to merge and accept stories." 
+            ]
+        },
+        {
+            "title": "Sr. Frontend Engineer",
+            "business": "Demark Analytics", 
+            "location": "Scottsdale, AZ",
+            "start": "7/2019",
+            "end": "11/2019",
+            "details": [
+                "React/Redux development of tools enabling users to ingest and manage financial markets data; tool requires managing and building features that utilize custom canvas tools, product upsells, subscription alerts, and other complex details.",
+                "Legacy NodeJS Microservices management of middle layer for proprietary data tool for the financial services industry. Contributed to Auth/N, 3rd party integrations, rest endpt dev, analytics and setting up new services to support the full site infrastructure."
+            ]
+        },
+        {
+            "title": "Frontend Engineer II",
+            "business": "Digital Air Strike", 
+            "location": "Scottsdale, AZ",
+            "start": "9/2018",
+            "end": "7/2019",
+            "details": [
+                "React/Redux development of custom tool enabling internal users to ingest and manage client review data; including responding to customer reviews on platforms like Yelp, Facebook, Google, and others.", 
+                "Participated in 6 person Scrum team, where I heavily contributed to writing feature & bug enhancements, leading grooming & prioritization, and a little bit of product development.",
+                "Technologies: Bitbucket, Pipelines(CI/CD), Kubernetes, Auth0, React (including Hooks), Redux, Redux-Saga, Styled-Components, NextJS, Cypress.io, Jest, NodeJS, Loggly, New Relic, MixPanel, & Private NPM registries.",
+                "Responsible for maintaining legacy code-bases written in NodeJS, using templating libraries and build systems like Gulp.",
+                "Q2 2019 tapped to lead 6 month development of Client Analytics service that serves as entry point dashboard for all clients via Single-Sign-On to view details around all DAS products.",
+                "Client Analytics platform designed with React for the frontend and consumes a GraphQL api that flows from company DataMart. GraphQL api is built with Apollo & Nexus using NodeJS."
+
+            ]
+        },
+        {
+            "title": "Software Engineer | Contract",
+            "business": "Leeo Inc.", 
+            "location": "San Francisco, CA",
+            "start": "5/2018",
+            "end": "12/2018",
+            "details": [
+                "Solo project to design, develop, deploy, & debug Customer Support site for internal CS Team. 95% of work completed Summer 2018.",
+                "Technologies: React, Auth0, Bootstrap, PuBNub, Node.js, Git, Heroku, Chart.JS", 
+                "Site consumes restful API that enables user, once authenticated via Auth0, to query, change, & add new customer data based on inquiries. Implemented pings to IoT connected devices via Pub/Sub to generate real-time readings.",
+                "Project required dynamic environment switching to access different backend datasets based on customized user groups.",
+                "Chart.JS graphs were implemented to track daily & weekly metrics as well as graph time-series readings for determining device operating consistency."
+            ]
+        }
+
+    ],
+    "education": {
+        "major": "Management Information Systems",
+        "school": "University of Georgia",
+        "department": "Terry College of Business",
+        "startYear": "2002",
+        "gradYear": "2006"
+    },
+    "summary": {
+        "headline": "Experienced software engineer with a history of  leadership and product management.",
+        "details": [
+            "14+ Years of Technical/Enterprise Account/Product/Project Management, leadership and team building.",
+            "Developed FinTech APIs & have extensive experience with SMB SaaS products, partnership negotiation, & freemium models.",
+            "Patents: Automated Entity Verification [US #8639930, #8732803, & #8856956]"
+        ]
+    },
+    "skills": [
+        "Angular9", "NgRX", "AGGrid", "RxJS", "React", "Redux", "Redux-Saga", "GraphQL", "Apollo Client & Server", "Styled-Components", "NextJS", "Karma", "Jest", "Jasmine", "ChartJS", "Auth0", "PubNub", "Bitbucket", "JIRA", "Scrum", "CI/CD", "Figma", "Framer", "NodeJS", "Java", "Rust(intro tutorials)"
+    ]
+}
